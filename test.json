@@ -1,4 +1,5 @@
-data: [
+{
+    data: [
         {
             "first_name": "Eric",
             "last_name": "Appel",
@@ -51,3 +52,4 @@ data: [
             "picture": "https://scontent-lga3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10906411_715135895267534_474223850924584494_n.jpg?oh=7bbfe3d4982fc9302fea23267d48c1c7&oe=56CD76FA"
         }
     ]
+}
