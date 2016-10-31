@@ -1,38 +1,32 @@
 {
     "data": [
         {
-            "first_name": "Eric",
-            "last_name": "Appel",
-            "email": [
-                "eric@gmail.com",
-                "info@cuappdev.org",
-            ],
+            "first_name": "Dennis",
+            "last_name": "Fedorko",
+            "email": "dennis@gmail.com",
             "phone": "(152) 555-5321",
-            "picture": "https://scontent-a-lga.xx.fbcdn.net/hphotos-xpa1/t31.0-8/1559294_10205035377430945_1129733074208269684_o.jpg"
+            "picture": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/dennis.png"
         },
         {
-            "first_name": "Lucas",
-            "last_name": "Derraugh",
-            "email": "lucas@cuappdev.org",
+            "first_name": "Adam",
+            "last_name": "ElShaer",
+            "email": "adam@cuappdev.org",
             "phone": "(134) 555-1134",
-            "picture": "https://scontent-ord1-1.xx.fbcdn.net/hphotos-xat1/t31.0-8/11312992_10203970601057656_29618109749126017_o.jpg"
+            "picture": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/adam.jpg"
         },
         {
-            "first_name": "Feifan",
-            "last_name": "Zhou",
-            "email": "feifan@tunetap.com",
+            "first_name": "Andrew",
+            "last_name": "Aquino",
+            "email": "andrew@design.ui",
             "phone": "(123) 456-5432",
-            "picture": "https://scontent-b-lga.xx.fbcdn.net/hphotos-xap1/t31.0-8/10387050_665555910165227_2032361056304072307_o.jpg"
+            "picture": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/andrew.jpg"
         },
         {
-            "first_name": "Steven",
-            "last_name": "Yeh",
-            "email": [
-                "steven@yeh.com",
-                "vp@ops.com",
-            ],
+            "first_name": "Annie",
+            "last_name": "Cheng",
+            "email": "annie@gmail.com",
             "phone": "(152) 555-5321",
-            "picture": "https://scontent-ord1-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/12144871_10206841309864569_3324705432898427151_n.jpg?oh=3e85db19e29c77041d6312466a8d9aeb&oe=56C00AFC"
+            "picture": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/annie.jpg"
         },
         {
             "first_name": "Walker",
@@ -42,14 +36,25 @@
             "picture": "http://vignette1.wikia.nocookie.net/gameofthrones/images/0/0c/White_Walkers.png"
         },
         {
-            "first_name": "Bernard",
-            "last_name": "Jiang",
-            "email": [
-                "150522@edu",
-                "b@gmail.com",
-            ],
+            "first_name": "Ilan",
+            "last_name": "Filonenko",
+            "email": "ilan@bloomberg.elon",
+            "phone": "(098) 765-4321",
+            "picture": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/ilan.jpg"
+        },
+        {
+            "first_name": "Daniel",
+            "last_name": "Li",
+            "email": "dan@daaaaammmdaniel.com",
+            "phone": "(098) 765-4321",
+            "picture": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/dan.png"
+        },
+        {
+            "first_name": "Celine",
+            "last_name": "Brass",
+            "email": "celine@kidzbop.com",
             "phone": "(---) ___-____",
-            "picture": "https://scontent-lga3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10906411_715135895267534_474223850924584494_n.jpg?oh=7bbfe3d4982fc9302fea23267d48c1c7&oe=56CD76FA"
+            "picture": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/celine.png"
         }
     ]
 }
