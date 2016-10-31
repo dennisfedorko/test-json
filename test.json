@@ -29,13 +29,6 @@
             "picture": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/annie.jpg"
         },
         {
-            "first_name": "Walker",
-            "last_name": "White",
-            "email": "walker@white.com",
-            "phone": "(098) 765-4321",
-            "picture": "http://vignette1.wikia.nocookie.net/gameofthrones/images/0/0c/White_Walkers.png"
-        },
-        {
             "first_name": "Ilan",
             "last_name": "Filonenko",
             "email": "ilan@bloomberg.elon",
