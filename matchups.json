@@ -1,0 +1,52 @@
+{
+    "matchups": [
+        {
+            "first_person": {
+                "name": "Dennis",
+                "hotness_score": "10.0",
+                "photo": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/dennis.png"
+            },
+            "second_person" : {
+                "name": "Adam",
+                "hotness_score": "8.0",
+                "photo": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/adam.jpg"
+            }
+        },
+        {
+            "first_person": {
+                "name": "Andrew",
+                "hotness_score": "9.0",
+                "photo": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/andrew.jpg"
+            },
+            "second_person" : {
+                "name": "Annie",
+                "hotness_score": "8.0",
+                "photo": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/annie.jpg"
+            }
+        },
+        {
+            "first_person": {
+                "name": "Ilan",
+                "hotness_score": "6.0",
+                "photo": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/ilan.jpg"
+            },
+            "second_person" : {
+                "name": "Daniel",
+                "hotness_score": "1.0",
+                "photo": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/dan.png"
+            }
+        },
+        {
+            "first_person": {
+                "name": "Celine",
+                "hotness_score": "9.0",
+                "photo": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/celine.png"
+            },
+            "second_person" : {
+                "name": "Daniel",
+                "hotness_score": "1.0",
+                "photo": "https://raw.githubusercontent.com/dennisfedorko/test-json/master/dan.png"
+            }
+        }
+    ]
+}
